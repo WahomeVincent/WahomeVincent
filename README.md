@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @WahomeVincent
-- 👀 I’m interested in developing my programming skills.
-- 🌱 I’m currently learning to develop projects in HTML, CSS, vanilla JS, React, Ruby, Rails and python.
-- 💞️ I’m looking to collaborate on any projects that will help grow my skills.
+- 👀 I’m into building responsive, scalable web applications.
+- 🌱 I’m currently developing projects in HTML, CSS, vanilla JS, React,Next.js, Ruby, Rails, Node.js, Express.js and python.
+- 💞️ I’m looking to collaborate on any web projects.
 - 📫 My official email is vinwahome@gmail.com.
 
 <!---
