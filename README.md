@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @WahomeVincent
-- 👀 I’m into building responsive, scalable web applications.
-- 🌱 I’m currently developing projects in HTML, CSS, vanilla JS, React,Next.js, Ruby, Rails, Node.js, Express.js and python.
-- 💞️ I’m looking to collaborate on any web and mobile projects.
+- 👀 I’m into building responsive, scalable web and mobile applications.
+- 🌱 I develop projects in  HTML, CSS, vanilla JS, React,Next.js, Angular, Laravel, Rails, Node.js, Express.js and python.
+- 💞️ I’m currently working as a mobile developer using Ionic.
 - 📫 My official email is vinwahome@gmail.com.
 
 <!---
